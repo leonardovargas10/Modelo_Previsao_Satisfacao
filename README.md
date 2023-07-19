@@ -32,4 +32,4 @@ Este projeto tem o intuito de ser um Modelo de Machine Learning para prever a in
 
 ## Referências
 
-[KAGGLE](https://www.kaggle.com/competitions/santander-customer-transaction-prediction](https://www.kaggle.com/c/santander-customer-satisfaction/data)https://www.kaggle.com/c/santander-customer-satisfaction/data)
+[KAGGLE](https://www.kaggle.com/c/santander-customer-satisfaction/data)
